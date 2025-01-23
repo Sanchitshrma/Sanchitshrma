@@ -1,50 +1,90 @@
-# 💻 Sanchit Sharma | MERN Stack Developer & DSA Enthusiast 🚀
+<h1 align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey!+I'm+Sanchit+Sharma;MERN+Stack+Developer+%7C+DSA+%7C+Java;Tech+Enthusiast+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile!+🚀" />
+</h1>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sanchitsharma.tech-blue?style=flat&logo=web)](https://www.sanchitsharma.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanchit%20Sharma-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanchit-sharma)
-[![GitHub](https://img.shields.io/badge/GitHub-sanchitsharma-black?style=flat&logo=github)](https://github.com/sanchitsharma)
-[![Twitter](https://img.shields.io/badge/Twitter-@sanchitsharma-1DA1F2?style=flat&logo=twitter)](https://twitter.com/sanchitsharma)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🌟 About Me
 🎓 **BTech in Electronics & Communication Engineering**  
 📍 **Maharaja Surajmal Institute of Technology, Janakpuri, New Delhi**  
-💡 Passionate about **Web Development**, **Data Structures & Algorithms (Java)**, and **Problem Solving**  
-🌱 Currently learning **System Design & Advanced Backend Concepts**  
-📫 **DM me**: [Instagram](https://www.instagram.com/sanchitsharma) | [LinkedIn](https://www.linkedin.com/in/sanchit-sharma)  
+💡 Passionate about **Full-Stack Development**, **DSA in Java**, and **Tech Innovations**  
+🔥 Always learning new technologies & solving complex problems  
+
+🔗 **DM Me**:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanchit%20Sharma-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanchit-sharma)  
+[![Instagram](https://img.shields.io/badge/Instagram-@sanchitsharma-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sanchitsharma)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanchitsharma.tech-FF5733?style=flat&logo=web)](https://www.sanchitsharma.tech)  
 
 ---
 
-## 🔥 Tech Stack
-💻 **Languages:** Java, JavaScript, TypeScript, C++  
-🌐 **Frontend:** React.js, Next.js, HTML, CSS, TailwindCSS, Bootstrap  
-🛠️ **Backend:** Node.js, Express.js, MongoDB, Firebase  
-📱 **Mobile:** React Native  
-⚙️ **Tools & Platforms:** Git, GitHub, Docker, Postman, VS Code  
-📊 **DSA:** Solving problems on LeetCode & CodeChef  
+## 🚀 Tech Stack
+
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)  
+
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)  
+
+### 🛠️ Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 
 ---
 
-## 🚀 Projects
-🔹 **[Wanderlust (Airbnb Clone)](https://github.com/sanchitsharma/wanderlust)** – A full-stack MERN application for booking stays.  
-🔹 **[Real-time Voice-to-Text & Text-to-Voice Translator](https://github.com/sanchitsharma/translator-app)** – Empowering individuals with speech and hearing impairments.  
-🔹 **[Portfolio Website](https://www.sanchitsharma.tech)** – My personal website showcasing my work and skills.  
-🔹 **[Simon Game](https://github.com/sanchitsharma/simon-game)** – A fun memory-based JavaScript game.  
+## 🔥 My Projects
+
+💼 **[Wanderlust (Airbnb Clone)](https://github.com/sanchitsharma/wanderlust)** – A full-stack MERN application for booking stays.  
+🗣 **[Real-time Voice-to-Text & Text-to-Voice Translator](https://github.com/sanchitsharma/translator-app)** – A translator for Indian regional languages.  
+🌐 **[Portfolio Website](https://www.sanchitsharma.tech)** – My personal website showcasing my work and skills.  
+🎮 **[Simon Game](https://github.com/sanchitsharma/simon-game)** – A fun memory-based JavaScript game.  
 
 ---
 
-## 🏆 GitHub Stats
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanchitsharma&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitsharma&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanchitsharma&theme=radical&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+</p>
+
 ---
 
-## 📬 Let's Connect!
-🌍 **Website**: [sanchitsharma.tech](https://www.sanchitsharma.tech)  
+## 📊 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanchitsharma&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🏆 Badges & Achievements
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)  
+![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)  
+![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)  
+
+---
+
+## 🤝 Let's Connect!
+💼 **Website**: [sanchitsharma.tech](https://www.sanchitsharma.tech)  
 📧 **Email**: sanchitsharma@example.com  
 📱 **DM Me**: [LinkedIn](https://www.linkedin.com/in/sanchit-sharma) | [Instagram](https://www.instagram.com/sanchitsharma)  
 
-🔥 **"Code, Innovate, and Elevate!"** 🚀  
+---
+
+<h3 align="center">"Code, Innovate, and Elevate!" 🚀</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="200" />
+</p>
