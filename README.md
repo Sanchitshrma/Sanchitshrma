@@ -1,14 +1,14 @@
-<h1 align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hey!+I'm+Sanchit+Sharma;MERN+Stack+Developer+%7C+DSA+%7C+Java;Tech+Enthusiast+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile!+🚀" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+My+GitHub+Profile!;💻+MERN+Stack+Developer+%7C+Full-Stack+Engineer;⚡+Building+Scalable+Web+Applications;🚀+Passionate+About+Technology+and+Innovation;🔥+Solving+Real-World+Problems+With+Code;📚+DSA+in+Java+%7C+Competitive+Programming;🎯+Always+Learning+and+Growing!;✨+Let's+Create+Something+Amazing!">
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://i.imgur.com/waxVImv.gif" width="800">
 </p>
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me  
 🎓 **BTech in Electronics & Communication Engineering**  
 📍 **Maharaja Surajmal Institute of Technology, Janakpuri, New Delhi**  
 💡 Passionate about **Full-Stack Development**, **DSA in Java**, and **Tech Innovations**  
@@ -86,5 +86,5 @@
 
 <h3 align="center">"Code, Innovate, and Elevate!" 🚀</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="200" />
+  <img src="https://i.imgur.com/82ABJ6Q.gif" width="300" alt="Coding GIF">
 </p>
