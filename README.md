@@ -15,8 +15,7 @@
 🔥 Always learning new technologies & solving complex problems  
 
 🔗 **DM Me**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanchit%20Sharma-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanchit-sharma)  
-[![Instagram](https://img.shields.io/badge/Instagram-@sanchitsharma-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sanchitsharma)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanchit%20Sharma-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanchit-sharma)   
 [![Portfolio](https://img.shields.io/badge/Portfolio-sanchitsharma.tech-FF5733?style=flat&logo=web)](https://www.sanchitsharma.tech)  
 
 ---
@@ -72,15 +71,14 @@
 
 ## 🏆 Badges & Achievements
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)  
-![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)  
-![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)  
+
 
 ---
 
 ## 🤝 Let's Connect!
 💼 **Website**: [sanchitsharma.tech](https://www.sanchitsharma.tech)  
-📧 **Email**: sanchitsharma@example.com  
-📱 **DM Me**: [LinkedIn](https://www.linkedin.com/in/sanchit-sharma) | [Instagram](https://www.instagram.com/sanchitsharma)  
+📧 **Email**: sanchitsharma917@gmail.com 
+📱 **DM Me**: [LinkedIn](https://www.linkedin.com/in/sanchit-sharma)
 
 ---
 
