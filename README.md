@@ -15,7 +15,7 @@
 🔥 Always learning new technologies & solving complex problems  
 
 🔗 **DM Me**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanchit%20Sharma-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanchit-sharma)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanchit%20Sharma-blue?style=flat&logo=linkedin)](www.linkedin.com/in/sanchit-shrma)   
 [![Portfolio](https://img.shields.io/badge/Portfolio-sanchitsharma.tech-FF5733?style=flat&logo=web)](https://www.sanchitsharma.tech)  
 
 ---
