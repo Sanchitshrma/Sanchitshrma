@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+My+GitHub+Profile!;💻+MERN+Stack+Developer+%7C+Full-Stack+Developer;⚡+Building+Scalable+Web+Applications;🚀+Passionate+About+Technology+and+Innovation;🔥+Solving+Real-World+Problems+With+Code;📚+DSA+in+Java;🎯+Always+Learning+and+Growing!;✨+Let's+Create+Something+Amazing!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+My+GitHub+Profile!;MERN+Stack+Developer+%7C+Full-Stack+Developer;⚡+Building+Scalable+Web+Applications;🚀+Passionate+About+Technology+and+Innovation;🔥+Solving+Real-World+Problems+With+Code;📚+DSA+in+Java;🎯+Always+Learning+and+Growing!;✨+Let's+Create+Something+Amazing!">
 </h1>
 
 <div align="center">
