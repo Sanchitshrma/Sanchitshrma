@@ -22,25 +22,38 @@
 
 ## 🚀 Tech Stack
 
-### 🌐 Frontend  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)  
+### 💻 Languages  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
-### ⚙️ Backend  
+### ⚙️ Frameworks & Libraries  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![EJS](https://img.shields.io/badge/-EJS-8A4182?style=flat-square&logo=ejs&logoColor=white)  
+![REST API](https://img.shields.io/badge/-REST%20APIs-FF6F61?style=flat-square&logo=api&logoColor=white)  
+
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)  
 
-### 🛠️ Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
+### 🛠️ Developer Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 
 ---
 
 ## 🔥 My Projects
 
-💼 **[NomadNest)](https://github.com/sanchitsharma/wanderlust)** – A full-stack MERN application for booking stays.   
+💼 **[NomadNest](https://github.com/sanchitsharma/wanderlust)** – A full-stack MERN application for booking stays.   
+🚗 **[Car Care Spa](https://github.com/sanchitsharma/car-care-spa)** – A web app for managing car services and bookings.  
 🌐 **[Portfolio Website](https://www.sanchitsharma.tech)** – My personal website showcasing my work and skills.  
 🎮 **[Simon Game](https://github.com/sanchitsharma/simon-game)** – A fun memory-based JavaScript game.  
 
@@ -66,20 +79,14 @@
 
 ---
 
-## 🏆 Badges & Achievements
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)  
-
-
----
-
 ## 🤝 Let's Connect!
 💼 **Website**: [sanchitsharma.tech](https://www.sanchitsharma.tech)  
-📧 **Email**: sanchitsharma917@gmail.com 
-📱 **DM Me**: [LinkedIn](https://www.linkedin.com/in/sanchit-shrma)
+📧 **Email**: sanchitsharma917@gmail.com  
+📱 **DM Me**: [LinkedIn](https://www.linkedin.com/in/sanchit-shrma)  
 
 ---
 
 <h3 align="center">"Code, Innovate, and Elevate!" 🚀</h3>
 <p align="center">
-  <img src="https://i.imgur.com/82ABJ6Q.gif" width="300" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
 </p>
