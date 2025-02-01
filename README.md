@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://i.imgur.com/waxVImv.gif" width="800">
 </p>
-z
+
 ---
 
 ## 🌟 About Me  
