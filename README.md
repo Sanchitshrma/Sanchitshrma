@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img align="center" alt="Coding Vibes" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+    <img align="center" alt="Coding Vibes" width="400" src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://preview.redd.it/n8agw6z2smyb1.gif?width=1920&format=mp4&s=014a8734c8d65fe3b5ef04658714bef6fc97778c)">
 </div>
 <p align="center">
   <img src="https://i.imgur.com/waxVImv.gif" width="800">
@@ -59,26 +59,6 @@
 🚗 **[Car Care Spa](https://github.com/sanchitsharma/car-care-spa)** – A web app for managing car services and bookings.  
 🌐 **[Portfolio Website](https://www.sanchitsharma.tech)** – My personal website showcasing my work and skills.  
 🎮 **[Simon Game](https://github.com/sanchitsharma/simon-game)** – A fun memory-based JavaScript game.  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanchitsharma&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchitsharma&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanchitsharma&theme=radical&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📊 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanchitsharma&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
