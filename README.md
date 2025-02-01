@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img align="center" alt="Coding Vibes" width="400" src="([https://preview.redd.it/n8agw6z2smyb1.gif?width=1920&format=mp4&s=014a8734c8d65fe3b5ef04658714bef6fc97778c])">
+    <img align="center" alt="Coding Vibes" width="400" src="(https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)">
 </div>
 <p align="center">
   <img src="https://i.imgur.com/waxVImv.gif" width="800">
