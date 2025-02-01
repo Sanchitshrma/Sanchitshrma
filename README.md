@@ -75,7 +75,7 @@
 ## 🤝 Let's Connect!
 💼 **Website**: [sanchitsharma.tech](https://www.sanchitsharma.tech)  
 📧 **Email**: sanchitsharma917@gmail.com 
-📱 **DM Me**: [LinkedIn]((https://www.linkedin.com/in/sanchit-shrma))
+📱 **DM Me**: [LinkedIn](https://www.linkedin.com/in/sanchit-shrma)
 
 ---
 
