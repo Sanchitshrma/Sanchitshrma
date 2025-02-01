@@ -3,12 +3,12 @@
 </h1>
 
 <div align="center">
-    <img align="center" alt="Coding Vibes" width="400" src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://preview.redd.it/n8agw6z2smyb1.gif?width=1920&format=mp4&s=014a8734c8d65fe3b5ef04658714bef6fc97778c)">
+    <img align="center" alt="Coding Vibes" width="400" src="(https://preview.redd.it/n8agw6z2smyb1.gif?width=1920&format=mp4&s=014a8734c8d65fe3b5ef04658714bef6fc97778c)">
 </div>
 <p align="center">
   <img src="https://i.imgur.com/waxVImv.gif" width="800">
 </p>
-
+z
 ---
 
 ## 🌟 About Me  
