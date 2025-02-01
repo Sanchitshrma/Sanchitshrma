@@ -40,8 +40,7 @@
 
 ## 🔥 My Projects
 
-💼 **[Wanderlust (Airbnb Clone)](https://github.com/sanchitsharma/wanderlust)** – A full-stack MERN application for booking stays.  
-🗣 **[Real-time Voice-to-Text & Text-to-Voice Translator](https://github.com/sanchitsharma/translator-app)** – A translator for Indian regional languages.  
+💼 **[NomadNest)](https://github.com/sanchitsharma/wanderlust)** – A full-stack MERN application for booking stays.   
 🌐 **[Portfolio Website](https://www.sanchitsharma.tech)** – My personal website showcasing my work and skills.  
 🎮 **[Simon Game](https://github.com/sanchitsharma/simon-game)** – A fun memory-based JavaScript game.  
 
@@ -76,7 +75,7 @@
 ## 🤝 Let's Connect!
 💼 **Website**: [sanchitsharma.tech](https://www.sanchitsharma.tech)  
 📧 **Email**: sanchitsharma917@gmail.com 
-📱 **DM Me**: [LinkedIn](https://www.linkedin.com/in/sanchit-sharma)
+📱 **DM Me**: [LinkedIn]((https://www.linkedin.com/in/sanchit-shrma))
 
 ---
 
