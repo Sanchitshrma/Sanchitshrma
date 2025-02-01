@@ -2,8 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+My+GitHub+Profile!;💻+MERN+Stack+Developer+%7C+Full-Stack+Engineer;⚡+Building+Scalable+Web+Applications;🚀+Passionate+About+Technology+and+Innovation;🔥+Solving+Real-World+Problems+With+Code;📚+DSA+in+Java+%7C+Competitive+Programming;🎯+Always+Learning+and+Growing!;✨+Let's+Create+Something+Amazing!">
 </h1>
 
-![Coding Animation](./animated_coding.gif)
-
+<div align="center">
+    <img align="center" alt="Coding Vibes" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</div>
 <p align="center">
   <img src="https://i.imgur.com/waxVImv.gif" width="800">
 </p>
@@ -89,6 +90,3 @@
 ---
 
 <h3 align="center">"Code, Innovate, and Elevate!" 🚀</h3>
-<p align="center">
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw3K0olX0ze0_K8bIF5CNXoH&ust=1738522720296000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDs0v2To4sDFQAAAAAdAAAAABAc](https://i.redd.it/n8agw6z2smyb1.gif)" width="300" alt="Coding GIF">
-</p>
