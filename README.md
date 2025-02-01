@@ -90,5 +90,5 @@
 
 <h3 align="center">"Code, Innovate, and Elevate!" 🚀</h3>
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw3K0olX0ze0_K8bIF5CNXoH&ust=1738522720296000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDs0v2To4sDFQAAAAAdAAAAABAc" width="300" alt="Coding GIF">
+  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw3K0olX0ze0_K8bIF5CNXoH&ust=1738522720296000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDs0v2To4sDFQAAAAAdAAAAABAc](https://i.redd.it/n8agw6z2smyb1.gif)" width="300" alt="Coding GIF">
 </p>
