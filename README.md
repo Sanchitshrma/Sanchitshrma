@@ -13,7 +13,7 @@
 
 ## 🌟 About Me  
 🎓 **BTech in Electronics & Communication Engineering**  
-📍 **Maharaja Surajmal Institute of Technology, Janakpuri, New Delhi**  
+📍 **Maharaja Surajmal Institute of Technology, Janakpuri C4, New Delhi**  
 💡 Passionate about **Full-Stack Development**, **DSA in Java**, and **Tech Innovations**  
 🔥 Always learning new technologies & solving complex problems  
 
